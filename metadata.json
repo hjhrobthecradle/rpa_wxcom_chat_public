@@ -1,0 +1,6 @@
+{
+  "name": "WeCom Chat Archiver",
+  "description": "企业微信聊天记录导出与安全归档工具，支持历史消息采集、定时自动监控、Webhook 实时推送与 Excel 导出",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
